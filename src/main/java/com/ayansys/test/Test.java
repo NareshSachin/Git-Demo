@@ -7,6 +7,10 @@ public class Test {
 			System.out.println("Welcome");
 	}
 
+	public static void addData(){
+		System.out.println("new method");
+	}
+	
 	public static void main(String[] args) {
 
 	}
